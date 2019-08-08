@@ -2,11 +2,11 @@
 <body>
 
 <div class="container">
-	<h1><img src="EasyClouds.png"> Welcome To Easy Clouds</h1>
+	<h1><img src="EasyClouds.png"></h1>
 </div>
 
 <div class="container">
-  <h3 id="wells" class="page-header"></h3>
+  <h3 id="wells" class="page-header">☁️Welcome To Easy Clouds☁️</h3>
 </div>
 
 <div class="container">
